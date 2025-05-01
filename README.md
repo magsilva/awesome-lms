@@ -74,6 +74,17 @@ Demo codes or sample implementations are listed below each library.
 ## Standard
 * [Overview](https://xapi.com/overview/)
 
+## API implementation in LMS
+* [Moodle support for xAPI](https://moodledev.io/docs/5.0/apis/subsystems/xapi): Technical explanation on how the xAPI Moodle integration library works.
+
+## Examples and tutorials
+* [ADL's resources](https://adlnet.github.io/#xapi): several examples by ADL regarding xAPI.
+
+## Software
+* [Logstore xAPI](https://moodle.org/plugins/logstore_xapi) Moodle plugin that emits xAPI statements to a Learning Record Store (LRS).
+* [SQL LRS](https://www.sqllrs.com/): Open source Learning Record Store (LRS), used to store learning data collected with the xAPI in a SQL database.
+* [ADL Learning Record Store](https://github.com/adlnet/ADL_LRS) Open source Learning Record Store (LRS), used to store learning data collected with the xAPI.
+
 
 # Caliper Analytics
 
