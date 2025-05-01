@@ -1,6 +1,8 @@
-# Awesome LTI Resources
+# Awesome resources for Learning Management Systems
 
-## Learning materials
+## Learning Tools Interoperability (LTI)
+
+### Learning materials
 * [LTI 1.1: from B to C](https://www.youtube.com/watch?v=I0zhjzCxovw&list=PLb5mG7w3UZkM_kx0mbojgDX4qFkGQsXO_&index=1) by Claude Vervoot  ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
 * [An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI) by OktaDev ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
 * [LTI 1.3 and LTI Advantage Bootcamp activities and sample code in Python](https://github.com/1EdTech/LTI-bootcamp-python/tree/main?tab=readme-ov-file) by 1EdTech Consortium ![](https://img.shields.io/badge/code-000?logo=GitHub)
@@ -14,35 +16,35 @@
   * [Part 5 - Group Service](https://www.youtube.com/watch?v=MpdsoZiFXuE)
 * [Getting Started with LTI](https://blackboard.github.io/lti/getting-started-with-lti): by Blackboard
 
-## Reference Implementations
+### Reference Implementations
 * [LTI 1.1 and 1.3 saLTIre Tool Consumer/Platform emulator](https://saltire.lti.app/platform) by ceLTIc project
 * [LTI 1.1 and 1.3 saLTIre Tool (Provider) emulator](https://saltire.lti.app/tool) by ceLTIc project
 * [LTI 1.3 Reference Implementation Platform](https://lti-ri.imsglobal.org/platforms) by 1EdTech Consortium
 * [LTI 1.3 Reference Implementation Tool](https://lti-ri.imsglobal.org/lti/tools) by 1EdTech Consortium
 
-## Utilities
+### Utilities
 * [View & debug LTI requests from within the developer tools](https://github.com/pfgray/lti-debugger) by Paul Gray 
 * [JSON Web Token (JWT) Debugger](https://jwt.io/#debugger-io) by Auth0
 
-## Libraries and Examples
+### Libraries and Examples
 Demo codes or sample implementations are listed below each library.
 
-### .NET Core
+#### .NET Core
 * [LTI 1.3 and LTI Advantage `LtiAdvantage`](https://github.com/LtiLibrary/LtiAdvantage)
 * [LTI 1.3 `Tpcly.Lti`](https://github.com/LtiLibrary/LtiAdvantage) by  Jelle Maas
 
-### JAVA
+#### JAVA
 * [LTI 1.1 `basiclti-util`](https://github.com/1EdTech/basiclti-util-java) by 1EdTech Consortium
 * [LTI 1.3 and LTI Advantage `lti-13`](https://github.com/UOC/java-lti-1.3) by UOC
 * [LTI 1.3 and LTI Advantage `spring-boot-lti-advantage`](https://github.com/UOC/spring-boot-lti-advantage) by UOC
   * [Sample Tool Provider in Spring Boot](https://github.com/UOC/java-lti-1.3-provider-example) by UOC
 
-### Javascript, Typescript, NodeJS
+#### Javascript, Typescript, NodeJS
 * [LTI 1.3 and LTI Advantage `ltijs`](https://cvmcosta.me/ltijs/) by Carlos Costa
 * [Enable LTI 1.3 Service](https://aws-samples.github.io/enable-lti/) by AWS
 * [LTI 1.3 Tool for testing Launches, Caliper, and Outcomes](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node) by Blackboard Inc.
 
-### Python
+#### Python
 * [LTI 1.1 `pylti`](https://github.com/mitodl/pylti) by MIT Office of Digital Learning
   * [Sample Tool Provider in Flask](https://github.com/mitodl/mit_lti_flask_sample) by MIT Office of Digital Learning
   * [Tool Provider Template in Flask ](https://github.com/ucfopen/lti-template-flask) by University of Central Florida - Open Source
@@ -54,7 +56,7 @@ Demo codes or sample implementations are listed below each library.
   * [Example Tool Provider in Flask](https://github.com/dmitry-viskov/pylti1.3-flask-example) by Dmitry Viskov
   * [LTI 1.3 Advantage Django reusable app](https://github.com/academic-innovation/django-lti) by UM Center for Academic Innovation
 
-### PHP
+#### PHP
 * [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) by ceLTIc project
   * [Rating PHP](https://github.com/celtic-project/Rating-PHP) by ceLTIc project
   * [Integrates the Celtic LTI library with a Laravel app](https://github.com/longhornopen/laravel-celtic-lti) by Longhorn Open Ed Tech
@@ -65,30 +67,30 @@ Demo codes or sample implementations are listed below each library.
 * [LTI 1.3 Core](https://github.com/oat-sa/lib-lti1p3-core) by  Open Assessment Technologies (TAO)
   * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) by  Open Assessment Technologies (TAO)
 
-### Ruby
+#### Ruby
 * [LTI Advantage](https://github.com/atomicjolt/atomic_lti) by  Atomic Jolt, Inc. 
 
 
-# xAPI
+## xAPI
 
-## Standard
+### Standard
 * [Overview](https://xapi.com/overview/)
 
-## API implementation in LMS
+### API implementation in LMS
 * [Moodle support for xAPI](https://moodledev.io/docs/5.0/apis/subsystems/xapi): Technical explanation on how the xAPI Moodle integration library works.
 
-## Examples and tutorials
+### Examples and tutorials
 * [ADL's resources](https://adlnet.github.io/#xapi): several examples by ADL regarding xAPI.
 
-## Software
+### Software
 * [Logstore xAPI](https://moodle.org/plugins/logstore_xapi) Moodle plugin that emits xAPI statements to a Learning Record Store (LRS).
 * [SQL LRS](https://www.sqllrs.com/): Open source Learning Record Store (LRS), used to store learning data collected with the xAPI in a SQL database.
 * [ADL Learning Record Store](https://github.com/adlnet/ADL_LRS) Open source Learning Record Store (LRS), used to store learning data collected with the xAPI.
 
 
-# Caliper Analytics
+## Caliper Analytics
 
-## Standard
+### Standard
 * [Overview](https://www.1edtech.org/standards/caliper)
 * [Specification](https://www.imsglobal.org/spec/caliper/latest/)
 
