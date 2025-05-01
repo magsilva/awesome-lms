@@ -1,7 +1,6 @@
 # Awesome LTI Resources
 
 ## Learning materials
-
 * [LTI 1.1: from B to C](https://www.youtube.com/watch?v=I0zhjzCxovw&list=PLb5mG7w3UZkM_kx0mbojgDX4qFkGQsXO_&index=1) by Claude Vervoot  ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
 * [An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI) by OktaDev ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
 * [LTI 1.3 and LTI Advantage Bootcamp activities and sample code in Python](https://github.com/1EdTech/LTI-bootcamp-python/tree/main?tab=readme-ov-file) by 1EdTech Consortium ![](https://img.shields.io/badge/code-000?logo=GitHub)
@@ -14,31 +13,24 @@
   * [Part 4 - Names & Roles Provisioning Service](https://www.youtube.com/watch?v=1Ux-P8d-L0Q) 
   * [Part 5 - Group Service](https://www.youtube.com/watch?v=MpdsoZiFXuE) 
 
-
 ## Reference Implementations
-
 * [LTI 1.1 and 1.3 saLTIre Tool Consumer/Platform emulator](https://saltire.lti.app/platform) by ceLTIc project
 * [LTI 1.1 and 1.3 saLTIre Tool (Provider) emulator](https://saltire.lti.app/tool) by ceLTIc project
 * [LTI 1.3 Reference Implementation Platform](https://lti-ri.imsglobal.org/platforms) by 1EdTech Consortium
 * [LTI 1.3 Reference Implementation Tool](https://lti-ri.imsglobal.org/lti/tools) by 1EdTech Consortium
 
 ## Utilities
-
 * [View & debug LTI requests from within the developer tools](https://github.com/pfgray/lti-debugger) by Paul Gray 
 * [JSON Web Token (JWT) Debugger](https://jwt.io/#debugger-io) by Auth0
 
 ## Libraries and Examples
-> :warning: Before using these libraries and tools verify that their LICENSES allow you to do so.
-
 Demo codes or sample implementations are listed below each library.
 
 ### .NET Core
 * [LTI 1.3 and LTI Advantage `LtiAdvantage`](https://github.com/LtiLibrary/LtiAdvantage)
 * [LTI 1.3 `Tpcly.Lti`](https://github.com/LtiLibrary/LtiAdvantage) by  Jelle Maas
 
-
 ### JAVA
-
 * [LTI 1.1 `basiclti-util`](https://github.com/1EdTech/basiclti-util-java) by 1EdTech Consortium
 * [LTI 1.3 and LTI Advantage `lti-13`](https://github.com/UOC/java-lti-1.3) by UOC
 * [LTI 1.3 and LTI Advantage `spring-boot-lti-advantage`](https://github.com/UOC/spring-boot-lti-advantage) by UOC
@@ -80,6 +72,7 @@ Demo codes or sample implementations are listed below each library.
 
 ## Standard
 * [Overview](https://xapi.com/overview/)
+
 
 # Caliper Analytics
 
