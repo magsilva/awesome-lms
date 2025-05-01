@@ -1,16 +1,4 @@
 # Awesome LTI Resources
-> :warning: This is a personal project. It does not necessarily represent the views of either 1EdTech Consortium nor of my employer. I provide no warranty that the linked resources contain correct informations and/or are functioning properly.
-
-List of awesome resources for learning and developing tools according to the [Learning Tools Interoperability](https://www.imsglobal.org/activity/learning-tools-interoperability) (LTI &copy;) standard created by the 1EdTech Consortium.
-
-![](https://img.shields.io/github/license/scollovati/awesome-lti?style=for-the-badge)
-[![](https://img.shields.io/static/v1?label=Gitlab&message=awesome-lti&style=for-the-badge&logo=gitlab)](https://gitlab.com/scollovati/awesome-lti)
-[![](https://img.shields.io/static/v1?label=Github&message=awesome-lti&style=for-the-badge&logo=github)](https://github.com/scollovati/awesome-lti)
-## Table of Contents
-
-  - [Learning materials](#learning-materials)
-  - [Reference Implementations](#reference-implementations)
-  - [Libraries and Examples](#libraries-and-examples)
 
 ## Learning materials
 
@@ -86,6 +74,18 @@ Demo codes or sample implementations are listed below each library.
 
 ### Ruby
 * [LTI Advantage](https://github.com/atomicjolt/atomic_lti) by  Atomic Jolt, Inc. 
+
+
+# xAPI
+
+## Standard
+* [Overview](https://xapi.com/overview/)
+
+# Caliper Analytics
+
+## Standard
+* [Overview](https://www.1edtech.org/standards/caliper)
+* [Specification](https://www.imsglobal.org/spec/caliper/latest/)
 
 
 # Contributing
