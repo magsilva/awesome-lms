@@ -98,6 +98,8 @@ Demo codes or sample implementations are listed below each library.
 * [ADL Learning Record Store](https://github.com/adlnet/ADL_LRS) Open source Learning Record Store (LRS), used to store learning data collected with the xAPI.
 * [Learning Locker](https://github.com/LearningLocker/learninglocker): Open source Learning Record Store (LRS) implementing the xAPI (Tin Can API) using JavaScript.
 * [SQL LRS](https://www.sqllrs.com/): Open source Learning Record Store (LRS), used to store learning data collected with the xAPI in a SQL database.
+* [lxHive](https://github.com/g3i/lxHive): Open source Learning Record Store (LRS), impelemented in PHP.
+* [SCORM Cloud](https://cloud.scorm.com): Cloud provider for SCORM and xAPI solutions.
 
 
 ## Caliper Analytics
