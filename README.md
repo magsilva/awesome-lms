@@ -91,6 +91,7 @@ Demo codes or sample implementations are listed below each library.
 #### xAPI
 * [Logstore xAPI](https://moodle.org/plugins/logstore_xapi) Moodle plugin that emits xAPI statements to a Learning Record Store (LRS).
 * [ADL xAPIWrapper](https://github.com/adlnet/xAPIWrapper): Javascript wrapper for xAPI, for usage in client applications.
+* [TinCanJS](https://github.com/RusticiSoftware/TinCanJS): Javascript library for xAPI, for usage in client applicatons, by Rustici Software.
 #### LRS
 * [ADL Learning Record Store](https://github.com/adlnet/ADL_LRS) Open source Learning Record Store (LRS), used to store learning data collected with the xAPI.
 * [Learning Locker](https://github.com/LearningLocker/learninglocker): Open source Learning Record Store (LRS) implementing the xAPI (Tin Can API) using JavaScript.
