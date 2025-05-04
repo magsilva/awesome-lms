@@ -86,6 +86,7 @@ Demo codes or sample implementations are listed below each library.
 
 ### Examples and tutorials
 * [ADL's resources](https://adlnet.github.io/#xapi): several examples by ADL regarding xAPI.
+* [xAPI Prototypes](https://xapi.com/prototypes/): several examples by Rustici regarding xAPI.
 
 ### Software
 #### xAPI
