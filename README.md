@@ -1,5 +1,9 @@
 # Awesome resources for Learning Management Systems
 
+## Learning management system (LMS)
+* [Adapt Framework](https://github.com/adaptlearning/adapt_framework): Javascript framework and authoring tool for fully responsive, multi-device, HTML5 e-learning content.
+  * [xAPI Adapt Framework](https://github.com/adaptlearning/adapt-contrib-xapi): Extension for Adapt Framework that enables xAPI support.
+
 ## Learning Tools Interoperability (LTI)
 
 ### Learning materials
