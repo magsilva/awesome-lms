@@ -101,6 +101,7 @@ Demo codes or sample implementations are listed below each library.
 * [Adopters of xAPI](https://xapi.com/adopters/): List of vendors that uses or provides tools for xAPI.
 * [Xasu](https://github.com/e-ucm/xasu): xAPI tracker with cmi5 support for Unity.
 * [ngx-xapi](https://github.com/BerryCloud/ngx-xapi): Angular xAPI model, client and tools.
+* [GitToXApi](https://github.com/git4school/gitToXApi): Library used to turn git change log data to xAPI format.
 #### LRS
 * [ADL Learning Record Store](https://github.com/adlnet/ADL_LRS) Open source Learning Record Store (LRS), used to store learning data collected with the xAPI.
 * [Learning Locker](https://github.com/LearningLocker/learninglocker): Open source Learning Record Store (LRS) implementing the xAPI (Tin Can API) using JavaScript.
