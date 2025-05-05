@@ -108,7 +108,7 @@ Demo codes or sample implementations are listed below each library.
 * [lxHive](https://github.com/g3i/lxHive): Open source Learning Record Store (LRS), impelemented in PHP.
 * [Ralph](https://github.com/openfun/ralph): Learning Record Store (LRS), impelemented in Python.
 * [SCORM Cloud](https://cloud.scorm.com): Cloud provider for SCORM and xAPI solutions.
-
+* [Symfony LRS](https://github.com/evolution-job/xapi-lrs-server): Implementation of Symfony bundle for a Learning Record Store, as defined by the xAPI.
 
 ## Caliper Analytics
 
