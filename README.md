@@ -19,6 +19,7 @@
   * [Part 4 - Names & Roles Provisioning Service](https://www.youtube.com/watch?v=1Ux-P8d-L0Q) 
   * [Part 5 - Group Service](https://www.youtube.com/watch?v=MpdsoZiFXuE)
 * [Getting Started with LTI](https://blackboard.github.io/lti/getting-started-with-lti): by Blackboard
+* [LTI 1.3 and LTI Advantage example](https://github.com/ikovac/lti-tool-example):  LTI 1.3 Tool example, implemented in TypeScript.
 
 ### Reference Implementations
 * [LTI 1.1 and 1.3 saLTIre Tool Consumer/Platform emulator](https://saltire.lti.app/platform) by ceLTIc project
