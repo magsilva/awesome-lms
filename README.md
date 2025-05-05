@@ -97,7 +97,8 @@ Demo codes or sample implementations are listed below each library.
 * [Logstore xAPI](https://moodle.org/plugins/logstore_xapi) Moodle plugin that emits xAPI statements to a Learning Record Store (LRS).
 * [ADL xAPIWrapper](https://github.com/adlnet/xAPIWrapper): Javascript wrapper for xAPI, for usage in client applications.
 * [TinCanJS](https://github.com/RusticiSoftware/TinCanJS): Javascript library for xAPI, for usage in client applicatons, by Rustici Software.
-* [xapijs](https://github.com/xapijs/xapi): Strongly typed JavaScript library for enabling learning content and learning systems to speak to each other using xAPI specification
+* [xapijs](https://github.com/xapijs/xapi): Strongly typed JavaScript library for enabling learning content and learning systems to speak to each other using xAPI specification.
+* [xapi-java](https://github.com/BerryCloud/xapi-java): Java xAPI model, client and tools.
 * [Adopters of xAPI](https://xapi.com/adopters/): List of vendors that uses or provides tools for xAPI.
 * [Xasu](https://github.com/e-ucm/xasu): xAPI tracker with cmi5 support for Unity.
 * [ngx-xapi](https://github.com/BerryCloud/ngx-xapi): Angular xAPI model, client and tools.
