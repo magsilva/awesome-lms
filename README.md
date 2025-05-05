@@ -80,6 +80,8 @@ Demo codes or sample implementations are listed below each library.
 ### Standard
 * [Overview](https://xapi.com/overview/)
 * [Specification](https://github.com/adlnet/xAPI-Spec)
+* [IEEE 9274.1.1 xAPI Base Standard](https://opensource.ieee.org/xapi/xapi-base-standard-documentation)
+* [IEEE 9274.2.1 xAPI Profile Standard](https://adlnet.github.io/xapi-profiles/xapi-profiles-about.html)
 
 ### API implementation in LMS
 * [Moodle support for xAPI](https://moodledev.io/docs/5.0/apis/subsystems/xapi): Technical explanation on how the xAPI Moodle integration library works.
