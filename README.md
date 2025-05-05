@@ -89,6 +89,8 @@ Demo codes or sample implementations are listed below each library.
 ### Examples and tutorials
 * [ADL's resources](https://adlnet.github.io/#xapi): several examples by ADL regarding xAPI.
 * [xAPI Prototypes](https://xapi.com/prototypes/): several examples by Rustici regarding xAPI.
+* [xAPI Learning Cohort](https://www.youtube.com/@xapicohortchannel4669): Free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the Experience API.
+* [xAPI Workshops](https://github.com/adlnet/xAPI-Workshop/tree/master/Presentations): Resources used or referenced in many xAPI workshops, presentations and plugfests
 
 ### Software
 #### xAPI
