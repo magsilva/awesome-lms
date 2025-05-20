@@ -109,7 +109,7 @@ Demo codes or sample implementations are listed below each library.
 * [Learning Locker](https://github.com/LearningLocker/learninglocker): Open source Learning Record Store (LRS) implementing the xAPI (Tin Can API) using JavaScript.
 * [SQL LRS](https://www.sqllrs.com/): Open source Learning Record Store (LRS), used to store learning data collected with the xAPI in a SQL database.
 * [lxHive](https://github.com/g3i/lxHive): Open source Learning Record Store (LRS), implemented in PHP. There is a [fork that supports Docker](https://github.com/RoboSparrow/lxHive).
-* [Ralph](https://github.com/openfun/ralph): Learning Record Store (LRS), impelemented in Python.
+* [Ralph](https://github.com/openfun/ralph): Learning Record Store (LRS), impelemented in Python. There is a newer version, probably aimed at better xAPI compliance, at https://github.com/inokufu/ralph.
 * [SCORM Cloud](https://cloud.scorm.com): Cloud provider for SCORM and xAPI solutions.
 * [Symfony LRS](https://github.com/evolution-job/xapi-lrs-server): Implementation of Symfony bundle for a Learning Record Store, as defined by the xAPI.
 #### Learning Analytics using LRS
